@@ -11,7 +11,7 @@ const AboutPage = () => {
       <h1>About me</h1>
       <p>
         I'm 23 years old and currently live in Londrina, Paraná, Brazil.
-        Currently my dream is to graduate and move to Canada.
+        Currently my objectives are to graduate and move to Canada.
       </p>
       <h2>Hobbies:</h2>
       <ul>
